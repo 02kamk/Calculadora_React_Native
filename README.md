@@ -1,4 +1,4 @@
-# Calculadora Kawaii
+# Calculadora
 
 Exercício de Soluções Mobile: React Native + Expo, componentes do React Native Paper e gerenciamento de estado com useState.
 
